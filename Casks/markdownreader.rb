@@ -5,7 +5,7 @@ cask "markdownreader" do
   url "https://github.com/davidhoo/MarkdownReader/releases/download/v#{version}/MarkdownReader.dmg",
       verified: "github.com/davidhoo/MarkdownReader/"
   name "Markdown Reader"
-  desc "Native macOS Markdown reader"
+  desc "Quiet Markdown reader"
   homepage "https://davidhoo.github.io/MarkdownReader/"
 
   livecheck do
