@@ -1,6 +1,6 @@
 cask "markdownreader" do
-  version "2.4.6"
-  sha256 "6811619982b10f0087d6212dd2d855aee798b7f672eb74c76963b8e06fa60bdc"
+  version "2.4.7"
+  sha256 "0cd98194385b150405b3bcf0279410cde8a958e8d3671b8b0416b3c6ae18286a"
 
   url "https://github.com/davidhoo/MarkdownReader/releases/download/v#{version}/MarkdownReader.dmg",
       verified: "github.com/davidhoo/MarkdownReader/"
